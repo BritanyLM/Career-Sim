@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+}
+.mepic {
+    display: flex;
+    justify-content: center;
+    }
+img {
+    border-radius: 100px;
+}
+h2 {
+    color: whitesmoke;
+    font-family: cursive;
+    font-size:x-large
+}
+
+article {
+    display: flex;
+    margin-top: 50px;
+    background-color: rgb(172, 119, 41);
+    margin: 100px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
